@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const GUILD_ID = "13649496777";
+const GUILD_ID = "3085195487";
 let guildCache = null;
 
 async function fetchGuildData() {
